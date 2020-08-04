@@ -5,7 +5,7 @@ class Demo extends Component {
 	constructor() {
 		super();
 		this.state = {
-			numOfCards: 20
+			numOfCards: 50
 		}
 	}
 
